@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# This page is a dedicated Google Ads landing page and is not intended for organic search indexing.
